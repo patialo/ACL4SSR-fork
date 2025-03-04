@@ -1,5 +1,12 @@
-#lan
+#lan2foreign
+#animate
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,hddolby.com
+DOMAIN-keyword,hdchina
+DOMAIN-keyword,tjupt
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,sjtu.edu.cn
+DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,soulvoice.club
 IP-CIDR,192.168.31.0/24
 

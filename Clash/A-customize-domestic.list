@@ -1,1 +1,9 @@
 #domestic
+DOMAIN-SUFFIX,dynamicnexa.com
+#plex
+DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,plex.direct
+#animate
+DOMAIN-SUFFIX,lemonhd.org
+
