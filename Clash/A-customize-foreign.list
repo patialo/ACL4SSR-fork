@@ -20,11 +20,11 @@ DOMAIN-KEYWORD,y-too
 DOMAIN-KEYWORD,oxycontin.cc
 DOMAIN-SUFFIX,flower.yt
 #plex
-DOMAIN-SUFFIX,metadata.provider.plex.tv
-DOMAIN-SUFFIX,metadata-static.plex.tv
-DOMAIN-SUFFIX,images.plex.tv
-DOMAIN-SUFFIX,downloads.plex.tv
-DOMAIN-SUFFIX,me.plexapp.com
+##DOMAIN-SUFFIX,metadata.provider.plex.tv
+#DOMAIN-SUFFIX,metadata-static.plex.tv
+#DOMAIN-SUFFIX,images.plex.tv
+#DOMAIN-SUFFIX,downloads.plex.tv
+#DOMAIN-SUFFIX,me.plexapp.com
 #forum
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-KEYWORD,hassbian
