@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,lobehub.com
 DOMAIN-KEYWORD,annas-archive
 DOMAIN-SUFFIX,githubusercontent.com
@@ -47,3 +46,8 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ubits.club
+#dns-test
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,browserleaks.com
+
