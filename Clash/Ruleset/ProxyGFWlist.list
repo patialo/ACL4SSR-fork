@@ -1,5 +1,5 @@
 # 内容：GFWList 黑名单
-# 数量：4378条
+# 数量：4387条
 DOMAIN-SUFFIX,*.pimg.tw
 DOMAIN-SUFFIX,*.sf.net
 DOMAIN-SUFFIX,*.tuzaijidi.com
@@ -209,6 +209,7 @@ DOMAIN-SUFFIX,anonfiles.com
 DOMAIN-SUFFIX,anonymouse.org
 DOMAIN-SUFFIX,antd.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
+DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,antiwave.net
 DOMAIN-SUFFIX,antpool.com
@@ -232,6 +233,7 @@ DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk.support
@@ -407,6 +409,7 @@ DOMAIN-SUFFIX,bigjapanesesex.com
 DOMAIN-SUFFIX,bignews.org
 DOMAIN-SUFFIX,bigone.com
 DOMAIN-SUFFIX,bild.de
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,binance.com
@@ -516,6 +519,7 @@ DOMAIN-SUFFIX,broadpressinc.com
 DOMAIN-SUFFIX,brookings.edu
 DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.chat
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bt4g.org
@@ -743,7 +747,10 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cldr.unicode.org
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,clementine-player.org
@@ -2383,7 +2390,6 @@ DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,mcadforums.com
 DOMAIN-SUFFIX,mcaf.ee
 DOMAIN-SUFFIX,mceindex.com
@@ -2593,6 +2599,7 @@ DOMAIN-SUFFIX,ned.org
 DOMAIN-SUFFIX,nekoslovakia.net
 DOMAIN-SUFFIX,neo-miracle.com
 DOMAIN-SUFFIX,neodb.social
+DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,netalert.me
@@ -3691,6 +3698,7 @@ DOMAIN-SUFFIX,torlock.com
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrenty.org
@@ -4299,6 +4307,7 @@ DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youversion.com
+DOMAIN-SUFFIX,youversionapi.com
 DOMAIN-SUFFIX,youwin.com
 DOMAIN-SUFFIX,youxu.info
 DOMAIN-SUFFIX,yt.be
